@@ -6,3 +6,6 @@ pakeiciame faila per github.com
 
 
 nuotoliniai pakeitimai
+
+
+nuotoliniai pakeitimai2
